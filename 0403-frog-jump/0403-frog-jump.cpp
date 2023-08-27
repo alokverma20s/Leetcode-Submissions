@@ -1,34 +1,32 @@
-class Solution {
-    int binarySearch(vector<int> &array, int x, int low, int high) {
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (array[mid] == x)
-                return mid;
-            else if (array[mid] < x)
-                low = mid + 1;
-            else
-                high = mid - 1;
-        }
-    return -1;
-    }
-    bool solve(vector<int> &stones, int idx, int k, vector<vector<int>> &dp){
-        if(idx >= stones.size())
+class Solution
+{
+    public:
+        bool canCross(vector<int> &stones)
+        {
+            int n = stones.size();
+            if (stones[1] != 1) 
+                return false;
+            if (n == 2) 
+                return true;
+            int jumps[n][n];
+            for (int i = 0; i < n; i++)
+                for (int j = 0; j < n; j++)
+                    jumps[i][j] = 0;
+                    
+            jumps[1][1] = 1;
+            for (int i = 2; i < n; i++){
+                for (int j = 1; j < i; j++){
+                    int d = stones[i] - stones[j];
+                    if (d - 1 < n && jumps[j][d - 1])
+                        jumps[i][d] = 1;
+                    else if (d < n && jumps[j][d])
+                        jumps[i][d] = 1;
+                    else if (d + 1 < n && jumps[j][d + 1])
+                        jumps[i][d] = 1;
+                    if (i == n - 1 && d < n && jumps[i][d])
+                        return true;
+                }
+            }
             return false;
-        if(idx == stones.size()-1)
-            return true;
-        if(dp[idx][k] != -1)
-            return dp[idx][k];
-        bool take = false;
-        int index = binarySearch(stones, stones[idx]+k, idx, stones.size()-1);
-        if(index > idx){
-            return dp[idx][k] = (solve(stones, index, k-1, dp)) || solve(stones, index, k, dp) || solve(stones, index, k+1, dp);
         }
-
-        return dp[idx][k] = false;
-    }
-public:
-    bool canCross(vector<int>& stones) {
-        vector<vector<int>> dp(stones.size()+1, vector<int>(stones.size()+1, -1));
-        return solve(stones, 0, 1, dp);
-    }
 };
