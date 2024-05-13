@@ -1,14 +1,19 @@
+#define fl(i, l, r) for(int i=(l); i< r; i++)
 class Solution {
 public:
     double average(vector<int>& salary) {
-        int mini = INT_MAX, maxi = 0;
-        double sum =0.0;
-        for(int i: salary){
-            mini = min(mini, i);
-            maxi = max(maxi, i);
-            sum += i;
+        double totalSalary = 0;
+        int minSal = INT_MAX;
+        int maxSal = 0;
+
+        int n = salary.size();
+        fl(i, 0, n){
+            minSal = min(minSal, salary[i]);
+            maxSal = max(maxSal, salary[i]);
+            totalSalary += salary[i];
         }
-        sum = sum -mini - maxi;
-        return sum/(salary.size() -2);
+        totalSalary -=(minSal + maxSal);
+        return totalSalary/(n-2);
+
     }
 };
