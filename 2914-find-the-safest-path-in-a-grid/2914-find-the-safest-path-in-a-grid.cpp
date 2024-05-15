@@ -13,30 +13,31 @@ class Solution {
     vector<int> diry = {0, 1, 0, -1};
     void bfs(vector<vector<int>>& grid){
         int n = grid.size();
-        queue<vector<int>> q;
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n; j++){
+        queue<pair<int,int>> q;
+        fl(i, 0, n){
+            fl(j, 0, n){
                 if(grid[i][j] == 1){
                     q.push({i, j});
                     manh[i][j] = 0;
                 }
             }
         }
+
         while(!q.empty()){
-            int x = q.front()[0];
-            int y = q.front()[1];
+            int x = q.front().first;
+            int y = q.front().second;
             q.pop();
             fl(i, 0, 4){
                 int nx = x+dirx[i];
                 int ny = y+diry[i];
-                if(nx>=0 && nx<n && ny>=0 && ny<n && manh[nx][ny]==-1){
-                    manh[nx][ny] = manh[x][y]+1;
+
+                if(nx >= 0 && nx <n && ny >= 0 && ny < n && manh[nx][ny] == -1){
+                    manh[nx][ny]  = manh[x][y]+1;
                     q.push({nx, ny});
                 }
             }
         }
     }
-
     int solve(vector<vector<int>>& grid){
         int n = grid.size();
         priority_queue<vector<int>> pq;
