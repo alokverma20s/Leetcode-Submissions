@@ -1,32 +1,17 @@
 class Solution {
-    int ncr(int n, int r){
-        if(r==0)
-            return 1;
-        else if(r==n)
-            return 1;
-        int m=n;
-        if(r>n/2)
-            r=n-r;
-        long int numrtr=1;
-        for(int i=0;i<r;i++){
-            numrtr*=m;
-            m--;
-        }
-        long int dnmtr=1,l=r;
-        for(int i=0;i<r;i++){
-            dnmtr*=l--;
-        }
-        return (numrtr/dnmtr);
-    }
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ans;
-        for(int i=0;i<numRows;i++){
-            vector<int> temp;
-            for(int j=0;j<=i;j++){
-                temp.push_back(ncr(i,j));
+        vector<vector<int>> ans(numRows);
+
+        for(int i=1; i<=numRows; i++){
+            vector<int>temp(i, 1);
+            ans[i-1]=temp;
+        }
+        for(int i=2; i< numRows; i++){
+            for(int j = 1; j< i; j++){
+                // cout<<i<<" "<<j<<endl;
+                ans[i][j] = ans[i-1][j] + ans[i-1][j-1];
             }
-            ans.push_back(temp);
         }
         return ans;
     }
