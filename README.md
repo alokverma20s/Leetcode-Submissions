@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
 # Matrix
@@ -31,9 +32,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
 # Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
+# Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
