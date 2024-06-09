@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
+| [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
@@ -61,3 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
