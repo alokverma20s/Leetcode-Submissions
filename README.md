@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
@@ -55,3 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
