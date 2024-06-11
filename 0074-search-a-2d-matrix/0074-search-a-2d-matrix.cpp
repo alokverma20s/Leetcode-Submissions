@@ -6,12 +6,10 @@ public:
 
         while(n >= 0 && m >= 0){
             if(matrix[n][m] > target){
-                if(n-1 >= 0 && matrix[n-1][m] > target){
+                if(n-1 >= 0 && matrix[n-1][m] >= target){
                     n--;
-                }else if((n-1>=0 && matrix[n-1][m] == target) || (m-1 >= 0 && matrix[n][m-1] == target)){
-                    return true;
                 }
-                else if(m-1 >= 0 && matrix[n][m-1] > target){
+                else if(m-1 >= 0 && matrix[n][m-1] >= target){
                     m--;
                 }
                 else{
