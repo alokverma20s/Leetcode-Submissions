@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 # Depth-First Search
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0062-unique-paths) |
 # Sorting
 |  |
 | ------- |
@@ -97,3 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0062-unique-paths) |
