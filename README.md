@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 # Counting
 |  |
 | ------- |
@@ -103,3 +106,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0062-unique-paths) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+# Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+# Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+# Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
