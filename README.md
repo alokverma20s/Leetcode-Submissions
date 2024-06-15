@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1073-number-of-enclaves) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 # Divide and Conquer
