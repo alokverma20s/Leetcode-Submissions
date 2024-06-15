@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
@@ -125,3 +126,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+# String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
