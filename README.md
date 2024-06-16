@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 # Hash Table
 |  |
 | ------- |
@@ -134,3 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
