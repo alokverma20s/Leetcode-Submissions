@@ -19,21 +19,16 @@ public:
             l++;
             temp = temp->next;
         }
+        temp->next= head;
         k = k % l;
-
-        if(k == 0)
-            return head;
-
         int r = l -k;
-        ListNode* last = temp;
-        temp = head;
+        ListNode* last = head;
         for(int i=0; i< r-1; i++){
-            temp = temp->next;
+            last = last->next;
         }
-        ListNode* next = temp->next;
-        temp->next = NULL;
-        last->next = head;
-        return next;
+        head = last->next;
+        last->next = NULL;
+        return head;
 
     }
 };
