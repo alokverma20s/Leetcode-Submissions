@@ -15,30 +15,45 @@ public:
 */
 
 class Solution {
+    void print(Node* node){
+        Node* temp = node;
+        while(temp != NULL){
+            cout<<temp->val<<" ";
+            temp = temp->next;
+        }
+    }
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL)
-            return NULL;
-        Node* newHead = new Node(head->val);
-        Node* t = newHead;
-
-        unordered_map<Node*, Node*> mp;
-        mp[head]= t; 
-        Node* temp = head->next;
+        if(head == NULL) return NULL;
+        Node* temp = head;
         while(temp != NULL){
-            t->next = new Node(temp->val);
-            t = t->next;
-            mp[temp] = t;
-            temp = temp->next;
+            Node* newNode = new Node(temp->val);
+            Node* next = temp->next;
+            temp->next = newNode;
+            newNode->next = next;
+            temp = next;
         }
-        t = newHead;
         temp = head;
-        while(t != NULL){
-            if(temp->random != NULL)
-            t->random = mp[temp->random];
-            t = t->next;
+
+        while(temp != NULL){
+            if(temp->random != NULL){
+                temp->next->random = temp->random->next;
+            }
+            temp = temp->next->next;
+        }
+
+        Node * newNode = new Node(-1);
+        // print(newNode);
+        temp = head;
+        Node* res = newNode;
+        while(temp != NULL){
+            res ->next = temp->next;
+            res= res->next;
+
+            temp->next = temp->next->next; 
             temp = temp->next;
         }
-        return newHead;
+        print(newNode);
+        return newNode->next;
     }
 };
