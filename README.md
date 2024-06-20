@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
