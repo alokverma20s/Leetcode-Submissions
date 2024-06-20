@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0542-01-matrix) |
 # Depth-First Search
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -167,4 +170,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
