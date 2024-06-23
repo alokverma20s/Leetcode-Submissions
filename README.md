@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0046-permutations) |
