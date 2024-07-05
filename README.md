@@ -202,3 +202,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
+<!---LeetCode Topics End-->
