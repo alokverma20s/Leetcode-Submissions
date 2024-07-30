@@ -212,4 +212,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
+## String
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
