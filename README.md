@@ -224,4 +224,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
