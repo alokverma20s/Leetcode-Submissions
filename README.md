@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -247,5 +249,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
