@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
 |  |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
