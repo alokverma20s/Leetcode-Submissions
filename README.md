@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -243,17 +244,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Matrix
