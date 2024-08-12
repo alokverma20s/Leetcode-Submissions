@@ -1,7 +1,6 @@
 class Solution {
     int solve(int i, int n, vector<int> &dp){
-        if(i == n) return 1;
-        if(i> n) return 0;
+        if(i == n || i == n-1) return 1;
 
         if(dp[i] != -1)
             return dp[i];
