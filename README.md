@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
+| [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
+| [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Matrix
 |  |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
