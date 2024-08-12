@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0888-mirror-reflection](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0888-mirror-reflection) |
 ## Geometry
 |  |
@@ -317,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
