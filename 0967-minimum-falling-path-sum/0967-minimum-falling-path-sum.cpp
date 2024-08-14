@@ -21,20 +21,22 @@ class Solution {
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
+        vector<int> prev(n);
         for(int i=0; i<n; i++)
-            dp[n-1][i] = matrix[n-1][i];
+            prev[i] = matrix[n-1][i];
         
         for(int i= n-2; i>= 0; i--){
+            vector<int> cur(n);
             for(int j=0; j< n; j++){
-                int same = dp[i+1][j];
-                int left = (j-1 >= 0) ? dp[i+1][j-1]: INT_MAX;
-                int right = (j+1 < n) ? dp[i+1][j+1]: INT_MAX;
-                dp[i][j] = min(same, min(left, right)) + matrix[i][j];
+                int same = prev[j];
+                int left = (j-1 >= 0) ? prev[j-1]: INT_MAX;
+                int right = (j+1 < n) ? prev[j+1]: INT_MAX;
+                cur[j] = min(same, min(left, right)) + matrix[i][j];
             }
+            prev = cur;
         }
         int ans = INT_MAX;
-        for(int i= 0; i< n; i++) ans = min(ans, dp[0][i]);
+        for(int i= 0; i< n; i++) ans = min(ans, prev[i]);
         return ans;
     }
 };
