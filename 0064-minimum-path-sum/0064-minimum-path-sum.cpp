@@ -2,10 +2,7 @@ class Solution {
     int solve(int x, int y, vector<vector<int>> &grid, vector<vector<int>> &dp){
         int n = grid.size();
         int m = grid[0].size();
-        if(x == n || y == m) return 0;
-        if(x == n-1 && y == m-1){
-            return grid[x][y];
-        }
+        if(x == n-1 && y == m-1) return grid[x][y];
         if(dp[x][y] != -1) return dp[x][y];
 
         int down= INT_MAX;
