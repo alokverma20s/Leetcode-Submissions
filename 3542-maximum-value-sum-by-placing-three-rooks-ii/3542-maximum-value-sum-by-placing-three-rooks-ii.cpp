@@ -30,15 +30,16 @@ public:
 
                     for(int k =0; k < m; k++){
                         if(i != k && j != k){
-                            ind = 0;
+                            ind =0;
                             while(ind < cd[k].size() && (cd[k][ind].second == firstInd || cd[k][ind].second == secondInd)) ind++;
                             if(ind >= cd[k].size()) continue;
 
                             int thirdInd = cd[k][ind].second;
                             long long thirdVal = cd[k][ind].first;
 
-                            long long total = firstVal + secondVal + thirdVal;
+                            long long total = firstVal + secondVal+ thirdVal;
                             ans = max(ans, total);
+
                         }
                     }
                 }
