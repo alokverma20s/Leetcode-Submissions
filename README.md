@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0213-house-robber-ii) |
+| [0260-single-number-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0260-single-number-iii) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
