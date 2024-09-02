@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0126-word-ladder-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0888-mirror-reflection](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0888-mirror-reflection) |
 ## Geometry
 |  |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 ## Biconnected Component
 |  |
@@ -350,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Brainteaser
@@ -359,5 +364,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
