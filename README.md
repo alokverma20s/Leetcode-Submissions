@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0198-house-robber) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 ## Simulation
 |  |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
