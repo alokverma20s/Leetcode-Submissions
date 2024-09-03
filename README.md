@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
