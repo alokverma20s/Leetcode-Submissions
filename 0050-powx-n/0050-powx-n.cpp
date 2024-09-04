@@ -5,13 +5,13 @@ public:
         if(n < 0) nn = -1 *nn;
         double ans = 1.0;
         while(nn){
-            if(nn % 2){
+            if(nn & 1){
                 ans = ans * x;
                 nn--;
             }
             else{
                 x = x * x;
-                nn /= 2;
+                nn = nn >> 1;
             }
         }
 
