@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
