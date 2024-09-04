@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0888-mirror-reflection](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0888-mirror-reflection) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0888-mirror-reflection) |
 ## Sorting
 |  |
@@ -378,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
