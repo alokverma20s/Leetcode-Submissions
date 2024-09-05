@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -387,4 +391,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0204-count-primes) |
+## Bitmask
+|  |
+| ------- |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
