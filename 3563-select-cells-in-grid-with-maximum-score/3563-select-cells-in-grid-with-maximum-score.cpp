@@ -1,40 +1,36 @@
 class Solution {
-public:
-    int getAns(int dontTakeLesserThanThis, int n, int m, vector<vector<int>>& grid, int bitMask, int maxValOfBitMask, vector<vector<int>>& dp) {
-        if (bitMask == maxValOfBitMask) {
-            return 0;
-        }
-        int& x = dp[dontTakeLesserThanThis][bitMask];
-        if (x != -1) {
-            return x;
-        }
+    int solve(int i, int n, vector<int> &v, map<int, vector<int>> &mp, int mask, vector<vector<int>> &dp){
+        if(i == n) return 0;
+        
+        if(dp[mask][i] != -1) return dp[mask][i];
         int ans = 0;
-        for (int i = 0; i < n; i++) {
-            int curFlag = (1 << i);
-            if ((bitMask & curFlag) != 0) {
-                continue;
-            } else {
-                for (int j = 0; j < m; j++) {
-                    if (grid[i][j] < dontTakeLesserThanThis) {
-                        continue;
-                    } else {
-                        ans = max(ans, grid[i][j] + getAns(grid[i][j] + 1, n, m, grid, (bitMask | curFlag), maxValOfBitMask, dp));
-                    }
-                }
+
+        for(auto j: mp[v[i]]){
+            if((mask & (1 << j)) == 0){
+                ans = max(ans, v[i] + solve(i+1, n, v, mp, (mask | (1 << j)), dp));
             }
         }
-        return x = ans;
+        return dp[mask][i] = max(ans, solve(i+1, n, v, mp, mask, dp));
     }
+public:
     int maxScore(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        // for (int i = 0; i < n; i++) {
-        //     sort(grid[i].begin(), grid[i].end());
-        // }
-        int bitMask = 0;
-        int maxValOfBitMask = (1 << n) - 1;
-        vector<vector<int>> dp(110, vector<int>(maxValOfBitMask + 10, -1));
-        int ans = getAns(0, n, m, grid, bitMask, maxValOfBitMask, dp);
-        return ans;
+        unordered_set<int> st;
+        int n = grid.size(), m = grid[0].size();
+        for(auto i: grid)
+            for(auto j: i) st.insert(j);
+        
+
+        vector<int> v;
+        for(auto i: st) v.push_back(i);
+
+        sort(v.rbegin(), v.rend());
+        map<int, vector<int>> mp;
+
+        for(int i=0; i< n; i++)
+            for(int j=0; j< m; j++)
+                mp[grid[i][j]].push_back(i);
+        vector<vector<int>> dp(1025, vector<int>(101, -1));
+        return solve(0, v.size(), v, mp, 0, dp);
+            
     }
 };
