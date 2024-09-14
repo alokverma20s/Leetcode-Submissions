@@ -1,23 +1,18 @@
 class Solution {
+    int solve(int i, vector<vector<int>>& books, int &d, int height, int remWidth, vector<vector<int>> &dp){
+        if(i == books.size()) return height;
+        if(dp[i][remWidth] != -1) return dp[i][remWidth];
+
+        int notTake = solve(i+1, books, d, books[i][1], d-books[i][0], dp) + height;
+        int take = INT_MAX;
+        if(remWidth-books[i][0] >=0){
+            take = solve(i+1, books, d, max(height, books[i][1]), remWidth-books[i][0], dp);
+        }
+        return dp[i][remWidth] = min(take, notTake);
+    }
 public:
     int minHeightShelves(vector<vector<int>>& books, int d) {
-        int n = books.size();
-        int dp[n+1];
-        dp[0]= 0;
-        for(int i=1; i<=n; i++){
-            int w = books[i-1][0], h = books[i-1][1];
-            dp[i] = dp[i-1]+h;
-            // cout<< w<<" "<<h<<endl;
-
-            for(int j = i-1; j > 0; j--){
-                w += books[j-1][0];
-                if(w > d) break;
-                h = max(h, books[j-1][1]);
-                dp[i] = min(dp[i], dp[j-1]+h);
-                // cout<<dp[i]<<" ";
-            }
-            // cout<<endl;
-        }
-        return dp[n];
+        vector<vector<int>> dp(books.size()+1, vector<int>(d+1, -1));
+        return solve(0, books, d, 0, d,dp);
     }
 };
