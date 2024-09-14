@@ -5,9 +5,6 @@ public:
         v[0]= arr[0];
         for(int i=1; i<arr.size(); i++) v[i] = v[i-1]^arr[i];
 
-
-        for(auto i: v) cout<<i<<" ";
-
         int m = q.size();
         vector<int> ans(m);
         for(int i=0; i< m; i++){
