@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0888-mirror-reflection](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0888-mirror-reflection) |
+| [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Geometry
 |  |
 | ------- |
@@ -414,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
