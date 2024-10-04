@@ -3,27 +3,17 @@ class Solution {
 public:
     ll dividePlayers(vector<int>& skill) {
         int n = skill.size();
-        ll sum = accumulate(skill.begin(), skill.end(), 0ll);
+        sort(skill.begin(), skill.end());
+        int target = skill[0] + skill[n-1];
 
-        ll ans = 0;
-        unordered_map<int, int> mp;
-        int cnt = 0;
-        if(sum % (n/2) == 0){
-            ll target = sum/(n/2);
-            for(int i=0; i<n; i++){
-                int temp = target - skill[i];
-                if(mp.find(temp) != mp.end() && mp[temp] != 0){
-                    mp[temp]--;
-                    cnt++;
-                    ans += (temp * skill[i]);
-                }
-                else{
-                    mp[skill[i]]++;
-                }
 
-            }
+        ll totalChemistry = ((ll)skill[0] * (ll)skill[n-1]);
+        for(int i=1; i< n/2;  i++){
+            int temp = skill[i] + skill[n-1-i];
+
+            if(temp != target) return -1;
+            totalChemistry += ((ll)skill[i] * (ll)skill[n-i-1]);
         }
-        if(cnt == n/2) return ans;
-        return -1;
+        return totalChemistry;
     }
 };
