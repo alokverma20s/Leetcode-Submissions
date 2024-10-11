@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Prefix Sum
 |  |
