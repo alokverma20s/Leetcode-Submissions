@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Simulation
 |  |
 | ------- |
