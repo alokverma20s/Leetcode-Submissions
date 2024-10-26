@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3518-maximum-multiplication-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3518-maximum-multiplication-score) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -504,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Counting
