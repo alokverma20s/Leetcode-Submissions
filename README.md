@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1002-maximum-width-ramp](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
