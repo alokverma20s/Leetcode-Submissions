@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0126-word-ladder-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Prefix Sum
@@ -522,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -539,4 +544,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
