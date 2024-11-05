@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
