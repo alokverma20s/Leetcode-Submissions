@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0136-single-number) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0921-spiral-matrix-iii) |
@@ -544,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 ## Divide and Conquer
 |  |
