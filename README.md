@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Brainteaser
