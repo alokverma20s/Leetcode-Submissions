@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
