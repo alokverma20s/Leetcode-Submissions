@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -586,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1002-maximum-width-ramp](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
