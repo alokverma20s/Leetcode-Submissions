@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1755-defuse-the-bomb) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String
 |  |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
