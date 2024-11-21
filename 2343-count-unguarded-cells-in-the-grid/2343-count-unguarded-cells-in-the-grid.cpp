@@ -10,8 +10,8 @@ public:
             g[walls[i][0]][walls[i][1]] = 3;
         }
 
+        int dir[] = {-1, 0, 1, 0, -1};
         for(int i=0; i< guards.size(); i++){
-            int dir[] = {-1, 0, 1, 0, -1};
 
             for(int d=0; d< 4; d++){
                 int y = guards[i][0], x = guards[i][1];
