@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0921-spiral-matrix-iii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Shortest Path
