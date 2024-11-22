@@ -5,13 +5,11 @@ public:
         unordered_map<string, int> count;
 
         for (int i = 0; i < m; ++i) {
-            string pattern1, pattern2;
+            string pattern;
             for (int j = 0; j < n; ++j) {
-                pattern1 += matrix[i][j]+'0';
-                pattern2 += (!matrix[i][j]) + '0';
+                pattern += (matrix[i][j] == matrix[i][0]) +'0';
             }
-            if(count.find(pattern1) != count.end()) count[pattern1]++;
-            else count[pattern2]++;
+            count[pattern]++;
         }
 
         int maxRows = 0;
