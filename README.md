@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Hash Table
@@ -446,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Math
 |  |
 | ------- |
@@ -545,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Prefix Sum
 |  |
