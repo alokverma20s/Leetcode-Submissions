@@ -1,50 +1,50 @@
 class Solution {
+    void findEulerPath(vector<int> &eulerPath, unordered_map<int, int> &outdegree, unordered_map<int, vector<int>> &adj, int node){
+        while(outdegree[node]){
+            outdegree[node]--;
+            int nextNode = adj[node][outdegree[node]];
+            findEulerPath(eulerPath, outdegree, adj, nextNode);
+        }
+        eulerPath.push_back(node);
+    }
 public:
     vector<vector<int>> validArrangement(vector<vector<int>>& pairs) {
         int n = pairs.size();
         unordered_map<int, vector<int>> adj;
         unordered_map<int, int> indegree, outdegree;
-        int startNode = -1, endNode = -1;
+
+        set<int> nodes;
 
         for (auto it : pairs) {
             int fi = it[0], se = it[1];
             adj[fi].push_back(se);
             outdegree[fi]++;
             indegree[se]++;
+            nodes.insert(fi);
+            nodes.insert(se);
         }
 
-        for (auto it : adj) {
-            int node = it.first;
-            if (outdegree[node] - indegree[node] == 1) {
-                startNode = node;
-            } else if (indegree[node] - outdegree[node] == 1) {
-                endNode = node;
+        int startNode = INT_MAX;
+        for (auto node : nodes) {
+            if(outdegree[node] == 1 + indegree[node]){
+                startNode= node;
+                break;
             }
         }
 
-        if (startNode == -1) {
+        if (startNode == INT_MAX) {
             startNode = pairs[0][0];
         }
 
         vector<vector<int>> ans;
-        stack<int> stk;
-        stk.push(startNode);
 
-        while (!stk.empty()) {
-            int node = stk.top();
-            if (!adj[node].empty()) {
-                int next = adj[node].back();
-                adj[node].pop_back();
-                stk.push(next);
-            } else {
-                stk.pop();
-                if (!stk.empty()) {
-                    ans.push_back({stk.top(), node});
-                }
-            }
+        vector<int> eulerPath;
+
+        findEulerPath(eulerPath, outdegree, adj, startNode);
+        reverse(eulerPath.begin(), eulerPath.end());
+        for(int i=0; i< eulerPath.size()-1; i++){
+            ans.push_back({eulerPath[i], eulerPath[i+1]});
         }
-
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
