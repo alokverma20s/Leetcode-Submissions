@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1035-cousins-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
+| [2201-valid-arrangement-of-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2201-valid-arrangement-of-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3189-find-champion-ii) |
@@ -644,4 +646,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
