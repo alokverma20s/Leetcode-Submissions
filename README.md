@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3518-maximum-multiplication-score](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3518-maximum-multiplication-score) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/alokverma20s/Leetcode-Submissions/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
