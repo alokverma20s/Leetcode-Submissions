@@ -1,14 +1,8 @@
 class Solution{
-    struct compare{
-        bool operator()(const pair<int, int> &p1, const pair<int, int> &p2){
-            if (p1.first == p2.first) return p1.second > p2.second;	// Compare second elements if first elements are equal 
-            return p1.first > p2.first;	// Compare first elements 
-        }
-    };
     public:
         long long findScore(vector<int> &nums){
             int n = nums.size();
-            priority_queue<pair<int, int>, vector< pair<int, int>>, compare> st;
+            priority_queue<pair<int, int>, vector< pair<int, int>>, greater<pair<int,int>>> st;
             for (int i = 0; i < n; i++){
                 st.push({ nums[i], i });
             }
